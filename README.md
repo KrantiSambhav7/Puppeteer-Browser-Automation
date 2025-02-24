@@ -17,8 +17,8 @@ Follow these steps to run the project on your local machine:
 
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/puppeteer-automation.git
-cd puppeteer-automation
+git clone https://github.com/KrantiSambhav7/Puppeteer-Browser-Automation.git
+cd Puppeteer-Browser-Automation
 ```
 
 ### **Install Dependencies**
